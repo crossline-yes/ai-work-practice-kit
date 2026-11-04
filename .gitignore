@@ -1,0 +1,19 @@
+# Generic study materials only
+*
+!*/
+!.gitignore
+!README.md
+!START-HERE.md
+!LICENSE
+!docs/*.md
+!prompts/*.md
+!study/*.md
+!templates/*.md
+!scripts/init_notes.py
+work-notes/
+private-work/
+data/
+runs/
+snapshot/
+__pycache__/
+.env*
